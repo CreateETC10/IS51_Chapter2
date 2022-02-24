@@ -34,5 +34,5 @@ print("str2", str2)
 str3=str1[:10] # python
 print("str3",str3) 
 str4=str2[2:-1]
-print("str4",str4)
+print("str4sss",str4)
 
