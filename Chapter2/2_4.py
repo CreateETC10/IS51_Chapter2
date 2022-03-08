@@ -39,6 +39,8 @@ num=float(input("Enter the third grade"))
 grades.append(num)
 num=float(input("Enter the fourth grade"))
 grades.append(num)
+num=float(input("Enter the fifth grade"))
+grades.append(num)
 
 
 grades.append(num)
