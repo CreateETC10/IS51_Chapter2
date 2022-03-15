@@ -82,3 +82,10 @@
 #     print("line:", line)
 # infile.close()
 
+# list_of_names=("Lucas","John","Adam")
+# print("list_of_names",list_of_names[:])
+
+list1=["A","B","C"]
+list2=list1(list1)
+list2.append("D")
+print(list1)
